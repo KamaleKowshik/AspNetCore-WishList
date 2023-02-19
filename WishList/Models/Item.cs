@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using Newtonsoft.Json;
 
-namespace WishList.Model
+namespace WishList.Models
 {
     public class Item
     {
